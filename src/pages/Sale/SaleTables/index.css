@@ -1,0 +1,12 @@
+
+table, th, td {
+    border: 1px solid rgba(0,0,0,0.3);
+}
+
+
+/*
+table {
+    margin: 30px auto 30px auto;
+    !*margin:0 auto*!
+}
+*/
